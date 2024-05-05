@@ -1,3 +1,9 @@
+@font-face {
+    font-family:Coraline ;
+    src: url(/font/P22\ Da\ Vinci\ Forward\ Regular.ttf) format(TrueType);
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -66,4 +72,18 @@ nav a:visited{
 p br{
     padding: 20px;
     
+}
+main p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header h1{
+    font-family: 'Coraline', Arial, Helvetica, sans-serif;
+}
+main h1{
+    font-family: 'Coraline', Arial, Helvetica, sans-serif;
+}
+
+header #sub{
+    font-family: 'Coraline', Arial, Helvetica, sans-serif;
+    font-size: 30px;
 }
