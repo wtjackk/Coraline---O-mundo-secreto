@@ -41,3 +41,29 @@ main p{
     padding: 20px;
       
 }
+
+nav{
+    padding: 10px;
+}
+
+nav a{
+    padding: 10px;
+    text-decoration: none;
+    color:rebeccapurple ;
+    font-weight: bold;
+    transition-duration: .8s;
+}
+
+nav a:hover{
+    background-color: violet;
+    border-radius: 5px;
+}
+
+nav a:visited{
+    color: gray;
+}
+
+p br{
+    padding: 20px;
+    
+}
